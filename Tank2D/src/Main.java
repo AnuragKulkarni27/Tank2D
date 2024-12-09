@@ -12,7 +12,7 @@ public class Main {
         Image icon = Toolkit.getDefaultToolkit().getImage("Assets/game_icon.png");
         obj.setBounds(10, 10, 800, 630);
         obj.setIconImage(icon);
-        obj.setTitle("Tank 1990");
+        obj.setTitle("Tank 2D");
         obj.setBackground(Color.gray);
         obj.setResizable(false);
 
